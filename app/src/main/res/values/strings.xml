@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu_HW</string>
+    <string name="dialog_title">Menu_HW_Dialog</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_random">Random</string>
+</resources>
